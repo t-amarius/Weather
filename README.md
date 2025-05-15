@@ -109,4 +109,4 @@ This project demonstrates your understanding of:
 ## 🧑‍💻 Author
 
 **Tamarius Jones**  
-Built as part of a university project for learning Java GUI development and data analysis techniques.
+Built as part of a Bowie State University Computer Science I project.
